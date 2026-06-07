@@ -1,0 +1,6 @@
+{
+  "name": "سامانه صرافی تیمی آریا اکس",
+  "description": "پلتفرم معاملاتی صرافی ارز دیجیتال با پنل مدیریت تیمی چهارنفره، واریز، برداشت، نمودار زنده بازار و دفترچه یادداشت مشترک",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
