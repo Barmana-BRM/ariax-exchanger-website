@@ -1,0 +1,3 @@
+secure-storage/kyc/*
+!secure-storage/kyc/.gitkeep
+!secure-storage/kyc/.gitignore
